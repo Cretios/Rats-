@@ -28,7 +28,7 @@ public class RatController {
 
 	private IntMap<Integer> movement = new IntMap<Integer>();
 	private Vector2 moveVec = new Vector2();
-	private float speedold = 15f;
+	private float speedold = 14f;
 	private float speednew = 20f;
 	private Sprite female;
 	private Sprite male;
